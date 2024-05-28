@@ -63,13 +63,13 @@ p {
 }
 .top-cloud {
     position: absolute;
-    right: 280px;
+    right: 130px;
     top: 140px;
 }
 .bottom-cloud {
     position: absolute;
-    left: 260px;
-    bottom: 200px;
+    left: 220px;
+    bottom: 220px;
 }
 hr {
     border-style: none;
